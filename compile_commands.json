@@ -1,0 +1,17 @@
+[{
+  "file": "K:\\programming\\mycode\\C++\\codelite1\\codelite1\\codelite1project\\main.cpp",
+  "directory": "K:\\programming\\mycode\\C++\\codelite1\\codelite1\\codelite1project",
+  "command": "C:/msys64/mingw64/bin/g++.exe -c K:\\programming\\mycode\\C++\\codelite1\\codelite1\\codelite1project\\main.cpp -o K:\\programming\\mycode\\C++\\codelite1\\codelite1\\codelite1project\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\msys64\\mingw64\\include\\c++\\13.2.0 -IC:\\msys64\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\msys64\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\msys64\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\msys64\\mingw64\\include -IC:\\msys64\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "K:\\programming\\mycode\\C++\\codelite1\\codelite1\\codelite1project\\info.cpp",
+  "directory": "K:\\programming\\mycode\\C++\\codelite1\\codelite1\\codelite1project",
+  "command": "C:/msys64/mingw64/bin/g++.exe -c K:\\programming\\mycode\\C++\\codelite1\\codelite1\\codelite1project\\info.cpp -o K:\\programming\\mycode\\C++\\codelite1\\codelite1\\codelite1project\\info.cpp.o -target x86_64-w64-mingw32 -IC:\\msys64\\mingw64\\include\\c++\\13.2.0 -IC:\\msys64\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\msys64\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\msys64\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\msys64\\mingw64\\include -IC:\\msys64\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "K:\\programming\\mycode\\C++\\codelite1\\codelite1\\codelite1project\\reverseLinkedList.cpp",
+  "directory": "K:\\programming\\mycode\\C++\\codelite1\\codelite1\\codelite1project",
+  "command": "C:/msys64/mingw64/bin/g++.exe -c K:\\programming\\mycode\\C++\\codelite1\\codelite1\\codelite1project\\reverseLinkedList.cpp -o K:\\programming\\mycode\\C++\\codelite1\\codelite1\\codelite1project\\reverseLinkedList.cpp.o -target x86_64-w64-mingw32 -IC:\\msys64\\mingw64\\include\\c++\\13.2.0 -IC:\\msys64\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\msys64\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\msys64\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\msys64\\mingw64\\include -IC:\\msys64\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "K:\\programming\\mycode\\C++\\codelite1\\codelite1\\codelite1project\\include\\reverseLinkedList.h",
+  "directory": "K:\\programming\\mycode\\C++\\codelite1\\codelite1\\codelite1project",
+  "command": "C:/msys64/mingw64/bin/g++.exe -c K:\\programming\\mycode\\C++\\codelite1\\codelite1\\codelite1project\\include\\reverseLinkedList.h -o K:\\programming\\mycode\\C++\\codelite1\\codelite1\\codelite1project\\include\\reverseLinkedList.h.o -target x86_64-w64-mingw32 -IC:\\msys64\\mingw64\\include\\c++\\13.2.0 -IC:\\msys64\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\msys64\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\msys64\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\msys64\\mingw64\\include -IC:\\msys64\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]

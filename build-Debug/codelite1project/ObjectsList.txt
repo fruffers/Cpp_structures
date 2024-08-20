@@ -1,0 +1,1 @@
+../build-Debug/codelite1project/info.cpp.o ../build-Debug/codelite1project/main.cpp.o   
